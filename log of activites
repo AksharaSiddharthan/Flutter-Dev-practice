@@ -23,6 +23,18 @@ WEEK3
 
 WEEK4
 02/06/25- Flutter Notes App named Thinklet - mapped out functionality of the app, designed UI on Figma and started the frontend for it
-03/06/25- Flutter Notes App named Thinklet
+03/06/25- Flutter Notes App named Thinklet- coded the ui on Flutter
+04/06/25- Flutter Notes App named Thinklet- looked into adding a backend using Hive
+05/06/25- Flutter Notes App named Thinklet- implemented Hive backend for the app and finished it.
+06/06/25- HOLIDAY
+
+WEEK5
+09/06/25- Flutter QR and URL scan app that checks for malicious content - formulated idea, identifies API to be used, designed UI on Figma
+10/06/25- Flutter QR and URL scan app that checks for malicious content - coded the ui on Flutter and integrated the REST api
+11/06/25- Flutter QR and URL scan app that checks for malicious content - Made changes to the ui both on Figma and Flutter
+12/06/25- Flutter QR and URL scan app that checks for malicious content - created a loader screen for tranistion between input and output screens
+13/06/25- 
+
+
 
 
